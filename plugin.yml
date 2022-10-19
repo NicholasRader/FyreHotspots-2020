@@ -1,0 +1,4 @@
+name: FyreCore
+version: 1.0
+main: us.fyrepvp.FyreCore
+depend: [WorldGuard, Vault, WGRegionEvents]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Downloads/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/WGRegionEvents-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darth/OneDrive/Desktop/FyrePvP/plugins/worldguard-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/darth/OneDrive/Desktop/FyrePvP/plugins/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
